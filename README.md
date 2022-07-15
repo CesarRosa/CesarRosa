@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CesarRosa, a electronic engineer
+- 👋 Hi, I’m @CesarRosa, an electronic engineer
 - 👀 I’m interested in IOT, programming, crypto coin, blockchain, web development
 - 🌱 I’m currently learning django
 
