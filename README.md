@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CesarRosa, an electronic engineer
-- 👀 I’m interested in IOT, programming, crypto coin, blockchain, web development
+- 👀 I’m interested in IoT, programming, crypto coin, blockchain, web development
 - 🌱 I’m currently learning django
 
 <!---
